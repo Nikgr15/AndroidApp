@@ -7,9 +7,10 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="54dp"
-        android:layout_height="32dp"
-        android:text="NMedia!"
+        android:layout_width="134dp"
+        android:layout_height="46dp"
+        android:text="@string/NMedia"
+        android:textSize="32sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
